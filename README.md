@@ -22,6 +22,7 @@ This application is a two-week-long paired project intended to solidify our REST
 ## Primary Technologies Used - Front End
 - React
 - Redux
+- Redux-Thunk
 - React Router
 - SCSS
 - Jest
